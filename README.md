@@ -41,3 +41,7 @@ Metode, kas izvada esošos elementus rindā.
 6. Lai pabeigtu programmas darbību, izvēlieties opciju `4`.
 
 Lai novērstu nepareizu ievadi, programma atgādinās par pareizām opcijām vai norādīs uz nepareizu ievadi.
+
+### Varat lejupielādēt visu projektu, lai skatītu kodu, vai arī varat lejupielādēt laidienu, lai paspēlētos. Priekš šī:
+1. Atveriet sadaļu <a href="https://github.com/andrejsandzans/Queue/releases/tag/Release" target="_blank">Izlaidums</a>.
+2. Un izpildiet turpmākos norādījumus
