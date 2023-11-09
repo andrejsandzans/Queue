@@ -41,19 +41,3 @@ Metode, kas izvada esošos elementus rindā.
 6. Lai pabeigtu programmas darbību, izvēlieties opciju `4`.
 
 Lai novērstu nepareizu ievadi, programma atgādinās par pareizām opcijām vai norādīs uz nepareizu ievadi.
-
-**Piemērs:**
-
-Izvēlies uzdevumu:
-1 - Ielikt rindā
-2 - Noņemt no rindas
-3 - Radīt rindu
-4 - Beigt darbu
-
-**>> 1**
-
-Ievadiet skaitli, ko vēlaties ielikt rindā: 5
-
-*5 ir pievienots rindai*
-
-
